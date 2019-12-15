@@ -1,0 +1,109 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User is on TekSchool page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User Click on Test Environment link",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "User should see Test Environment page",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "SDET2019AUG_SDET_005_Execution",
+        "description": "",
+        "id": "sdet-test-cases;sdet2019aug-sdet-005-execution",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "User click on component dropdown menu should display",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "User click on image of product the product detailed should list on right side of the page",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "User should click on Samsung galaxy tab",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "User should be able to see the blue button with label add to the cart",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "User should be able to see success message that products are added to the cart",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@SDET_005"
+          }
+        ]
+      }
+    ],
+    "name": "SDET Test Cases",
+    "description": "",
+    "id": "sdet-test-cases",
+    "keyword": "Feature",
+    "uri": "Features/SDET_TC.feature"
+  }
+]
